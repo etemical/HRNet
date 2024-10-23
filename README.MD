@@ -1,5 +1,5 @@
 # HRNet
-
+(转载自https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_keypoint/HRNet)
 ## 该项目主要参考以下仓库
 * https://github.com/leoxiaobin/deep-high-resolution-net.pytorch
 * https://github.com/stefanopini/simple-HRNet
